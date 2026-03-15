@@ -32,27 +32,7 @@ An interactive dashboard for visualizing internet performance data across Africa
 - Google BigQuery integration
 - CORS support for local development
 
-## Project Structure
 
-```
-afrinet-insight/
-├── backend/              # Flask API server
-│   ├── app.py           # Main API endpoints
-│   ├── bigquery_client.py  # BigQuery data fetching
-│   └── requirements.txt
-├── frontend/            # React application
-│   ├── src/
-│   │   ├── components/  # React components
-│   │   ├── App.jsx     # Main app component
-│   │   └── main.jsx    # Entry point
-│   ├── package.json
-│   └── vite.config.js
-└── README.md
-```
-
-## 🚀 Quick Start
-
-**New to the project?** Check out [QUICKSTART.md](QUICKSTART.md) for a 5-minute setup guide!
 
 ## Setup Instructions
 
