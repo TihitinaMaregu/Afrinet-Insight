@@ -312,19 +312,7 @@ This project demonstrates:
 - Content Security Policy
 - XSS protection
 
-## 💰 Cost Considerations
 
-### BigQuery
-- **Free tier**: 1 TB queries/month
-- **Typical query**: 10-100 MB
-- **Estimated cost**: $0-5/month for moderate use
-- **M-Lab dataset**: Free to query
-
-### Hosting
-- **Development**: Free (localhost)
-- **Production**: $5-20/month (basic VPS)
-- **Cloud Run**: Pay per request
-- **Static hosting**: Often free
 
 ## 📝 Documentation
 
@@ -336,13 +324,6 @@ This project demonstrates:
 - **CONTRIBUTING.md**: Contribution guidelines
 - **API Documentation**: Inline in code
 
-## 🤝 Contributing
-
-We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for:
-- How to report bugs
-- How to suggest features
-- Code style guidelines
-- Pull request process
 
 ## 📄 License
 
@@ -396,6 +377,6 @@ MIT License - Free to use, modify, and distribute
 
 ---
 
-**Built with ❤️ for making internet performance data accessible across Africa**
+
 
 *Last Updated: October 2024*
